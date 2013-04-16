@@ -4,7 +4,9 @@
   "private": true,
   "dependencies": {
     "cleverbot-node": "~0.1.1",
-    "redwrap": "0.0.4"
+    "mongoose": "~3.6.2",
+    "underscore": "~1.4.4",
+    "rereddit": "git+ssh://git@github.com:zachfogg/rereddit.git"
   },
   "engines": {
     "node": "0.8.x",
